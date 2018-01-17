@@ -1,1 +1,2 @@
 # sntp
+Just a test!
